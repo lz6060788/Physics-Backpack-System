@@ -1,0 +1,5 @@
+{
+  "name": "Physics Backpack System",
+  "description": "A grid-based inventory management system with a physics-enabled item staging area.",
+  "requestFramePermissions": []
+}
